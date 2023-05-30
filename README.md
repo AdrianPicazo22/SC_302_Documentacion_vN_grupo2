@@ -1,0 +1,2 @@
+# SC_302_Documentacion_vN_grupo2
+desarrollo software
